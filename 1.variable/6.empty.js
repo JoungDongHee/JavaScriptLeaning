@@ -11,4 +11,4 @@ activeItem = null // 활성화된 아이템이 없는 상태 !
 
 console.log(typeof 123);
 console.log(typeof null);
-console.log(typeof undefined);
+console.log(typeof undefined);  

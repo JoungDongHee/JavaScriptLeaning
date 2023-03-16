@@ -23,7 +23,6 @@ console.log(!!undefined);
 console.log(!!NaN);
 console.log("=======================")
 
-
  // Truthy 참인값
 
  console.log(!!1);
